@@ -1,4 +1,4 @@
-# Acute-Brain-Infarct-Location-Classification-using-CNN
+# Acute Brain Infarct Location Detection
 A Deep-Learning project to detect Acute infarcts in different brain locations using Keras and Tensorflow libraries.
 
 ## 1. Data Preprocessing
